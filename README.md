@@ -2,8 +2,7 @@
 
 **Zoniaina/Zoniaina** is a ✨  React| Node Developer - Software Engineer ✨
 
-
-🔗 [https://zoniaina.com](https://zoniaina.com)
+- 🔗 [https://zoniaina.com](https://zoniaina.com)
 
 - 🔭 I’m currently working on ... Booking app with NextJs
 - 🌱 I’m currently learning Web3 - ML - TypesScript evolution
