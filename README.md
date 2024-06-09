@@ -29,9 +29,9 @@
 
 - 🔗 [https://zoniaina.com](https://zoniaina.com)
 
-- 🔭 I’m currently working on ... my portofilio with Nuxjs/GSAP - collaborative music app
-- 🌱 I’m currently learning Web3 - Rust - TypeScript evolution - ML
-- 👯 I’m looking to collaborate on ... TS - Zod - Web3 app
+- 🔭 I’m currently working on ... my portofilio with Nuxtjs/GSAP & Collaborative music app
+- 🌱 I’m currently learning  Rust - TypeScript evolution - Web3
+- 👯 I’m looking to collaborate on ... TypeScript - Rust - Java or C# - Web3 app ...
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... TS - JS - React - NextJS - Node - NestJS - React Native
 - 📫 How to reach me: ... zoniaina.fa@gmail.com
