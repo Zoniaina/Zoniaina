@@ -32,7 +32,7 @@
 - 🔭 I’m currently working on ... my portofilio with Nuxtjs/GSAP & Collaborative music app
 - 🌱 I’m currently learning  Rust - TypeScript evolution - Nextjs - WASM - Java
 - 👯 I’m looking to collaborate on ... TypeScript - Nextjs - NestJS - Rust - Java or C# ...
-- 🤔 I’m looking for help with vst integration with nextjs or rust lib 
+- 🤔 I’m looking for help with vst integration with nextjs and rust or c++ lib 
 - 💬 Ask me about ... TS - JS - React - NextJS - Node - NestJS - React Native
 - 📫 How to reach me: ... zoniaina.fa@gmail.com
 - 😄 Pronouns: ... [Zou]
