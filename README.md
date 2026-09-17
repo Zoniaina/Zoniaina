@@ -1,39 +1,55 @@
-###👋 Hello world 😃
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+# 👋 Hello World, I'm Zo 😃
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Fullstack TypeScript Developer
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+**React · Node.js · NestJS · Next.js**
 
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,postgres,docker,redis&theme=dark" />
 
+<br/><br/>
 
- ✨  React| Node Developer - Software Engineer ✨
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-zoniaina.com-111111?style=flat-square)](https://zoniaina.com)
+[![Email](https://img.shields.io/badge/📫_Say_Hello-Email_me-111111?style=flat-square)](mailto:zoniaina.fa@gmail.com)
 
+</div>
 
-- 🔗 [https://zoniaina.com](https://zoniaina.com)
+---
 
-- 🔭 I’m currently working on ... my portofilio with Nuxtjs/GSAP & Collaborative music app
-- 🌱 I’m currently learning  Rust - TypeScript evolution - Nextjs - WASM - Java
-- 👯 I’m looking to collaborate on ... TypeScript - Nextjs - NestJS - Rust - Java or C# ...
-- 🤔 I’m looking for help with vst integration with nextjs and rust or c++ lib 
-- 💬 Ask me about ... TS - JS - React - NextJS - Node - NestJS - React Native
-- 📫 How to reach me: ... zoniaina.fa@gmail.com
-- 😄 Pronouns: ... [Zou]
-- ⚡ Fun fact: ... 
+### 👨‍💻 A little bit about me
+
+* 🔭 I'm currently building **HuntFlow** 🚀
+* 🧠 I love **Software Architecture, DDD & System Design**
+* 🤖 I'm exploring **AI, LLMs, Agents & Machine Learning**
+* 🌱 Currently learning something new... as always 😅
+* 💬 Ask me about **TypeScript, Node.js, NestJS & React**
+* 👯 Happy to collaborate on **interesting open-source projects**
+* ☕ Coffee → Code → Debug → Repeat
+* ⚡ Fun fact: **I probably spend more time naming things than writing them**
+
+---
+
+### 🛠️ My playground
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,angular,vue,nuxt,svelte,tailwind,postgres,mongodb,mysql,redis,rabbitmq,docker,git,github&perline=10&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```typescript id="hfxhpo"
+while (alive) {
+    learn();
+    build();
+    refactor();
+}
+```
+
+**Build things · Understand how they work · Make the next version better**
+
+</div>
